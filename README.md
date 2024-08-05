@@ -31,7 +31,7 @@ The analysis reveals a robust business with strong sales, a large customer base,
 These recommendations are designed to help Olist Store leverage its strengths, address areas for improvement, and remain competitive. Implementing these strategies will drive substantial growth and enhance market reach 🌟.
 
 ## 🛠️ Tools Used :-
-Tableau for data visualization and creation of interactive dashboards.
+Tableau for data visualization and creation of interactive dashboards.                                                  
 Microsoft PowerPoint For Presentation
 
 
