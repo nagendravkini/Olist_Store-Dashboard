@@ -16,7 +16,6 @@ I provided a thorough examination of the client’s KPIs, designed intuitive das
 ## 📌 Conclusion :-
 The analysis reveals a robust business with strong sales, a large customer base, and a diverse product range. Key insights include the preference for credit card payments and the critical relationship between shipping speed and customer satisfaction. To capitalize on these insights, we recommend:
 
-
 1. Optimize weekend sales with targeted marketing.
 2. Expand the product portfolio.
 3. Enhance the credit card payment process.
@@ -34,12 +33,11 @@ These recommendations are designed to help Olist Store leverage its strengths, a
 Tableau for data visualization and creation of interactive dashboards.                                                  
 Microsoft PowerPoint For Presentation
 
-
 # Live Dashboard :-
-[https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCrashAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Aivariant1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/Aivariant1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # DashBoard Vedio :-
-https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/b3af4d5d-d718-4bbf-b28e-88467bec8c0e
+https://github.com/user-attachments/assets/f38dba85-3a06-4689-bd07-e103d729cccb
 
 # Screenshot of the Analysis :-
 ![Screenshot 2024-06-24 121006](https://github.com/user-attachments/assets/3705ef74-7b70-4708-be85-a3fc2fc61f23)
